@@ -83,7 +83,7 @@
     
 ***After creating layout files and all. Now we will write the java files for our app. See the below screenshot how the package will look***
 
------Screenshot-----
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/Splash/art/Capture.PNG)
 
 **Create a App.java file in splash.developer.aero -> App.java**
 	
