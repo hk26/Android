@@ -727,6 +727,6 @@
         </application>
     </manifest>
     
-    **Output:**
+ **Output:**
     
-    ![alt text](https://github.com/akshaysunilmasram/Android/blob/master/Intro/art/IntroActivity.png)
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/Intro/art/IntroActivity.png)
