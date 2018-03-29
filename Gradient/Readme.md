@@ -122,5 +122,5 @@
     </manifest>
 
 **Output:**
+
 ![alt text](https://github.com/akshaysunilmasram/Android/blob/master/Gradient/art/gradient.png)
-    
