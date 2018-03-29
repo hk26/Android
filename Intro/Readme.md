@@ -114,8 +114,13 @@
     </resources>
 
 **Create a drawable folder in res and download this images given below link and put it in your drawable directory**
+(https://github.com/akshaysunilmasram/Android/blob/master/Intro/app/src/main/res/drawable-hdpi/ic_food.png)
 
---links--
+(https://github.com/akshaysunilmasram/Android/blob/master/Intro/app/src/main/res/drawable-hdpi/ic_movie.png)
+
+(https://github.com/akshaysunilmasram/Android/blob/master/Intro/app/src/main/res/drawable-hdpi/ic_travel.png)
+
+(https://github.com/akshaysunilmasram/Android/blob/master/Intro/app/src/main/res/drawable-hdpi/ic_discount.png)
 
 **Create a activity_main file  in res-> layout -> activity_main**
 
