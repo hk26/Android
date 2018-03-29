@@ -418,6 +418,8 @@
 
 ***After cretaing layout fiels and all now we will write Java files in our package. Below given screenshot will help you how the package will look:***
 
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/Intro/art/Capture.PNG)
+
 **Create a MainActivity.java file:**
 
     package intro.developer.aero;
@@ -724,3 +726,7 @@
             </activity>
         </application>
     </manifest>
+    
+    **Output:**
+    
+    ![alt text](https://github.com/akshaysunilmasram/Android/blob/master/Intro/art/IntroActivity.png)
