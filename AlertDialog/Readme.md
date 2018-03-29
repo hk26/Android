@@ -113,4 +113,6 @@
 
     </manifest>
 		
-**Output:**		
+**Output:**
+
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/AlertDialog/art/alertdialogbox.png)
