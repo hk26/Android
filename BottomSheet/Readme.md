@@ -1,6 +1,15 @@
 ***You have seen in some apps that they have a Bottom Sheet Activity when you proceed to payment gateway or many other things. So in this tutorial you will learn to create BottomSheet Activity.***
 
 **Download the drawable folder images and put it in your res -> drawable. I have given you the links for download:**
+https://github.com/akshaysunilmasram/Android/blob/master/BottomSheet/app/src/main/res/drawable-hdpi/ic_content_copy_black_24dp.png
+
+https://github.com/akshaysunilmasram/Android/blob/master/BottomSheet/app/src/main/res/drawable-hdpi/ic_email_black_24dp.png
+
+https://github.com/akshaysunilmasram/Android/blob/master/BottomSheet/app/src/main/res/drawable-hdpi/ic_link_black_24dp.png
+
+https://github.com/akshaysunilmasram/Android/blob/master/BottomSheet/app/src/main/res/drawable-hdpi/ic_remove_red_eye_black_24dp.png
+
+https://github.com/akshaysunilmasram/Android/blob/master/BottomSheet/app/src/main/res/drawable-hdpi/ic_share_black_24dp.png
 
 **Strings.xml**
 
@@ -576,4 +585,4 @@
 
 Output:		
 
-![alt text]()
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/BottomSheet/art/bottomsheet.png)
