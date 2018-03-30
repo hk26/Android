@@ -221,6 +221,8 @@
 		
 ***Now we will write java files. we will make 2 folders under your package	'fragment' and 'helper'. Now we will write java files under fragment folder. I have given below screenshot how the package will look:***
 
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/BottomNavigation/art/androidstudio.PNG)
+
 ***Now we will write all files under fragment directory:*** 
 
 **Create ProfileFragment.java**
@@ -622,3 +624,5 @@ Now we will create another folder named 'helper' under your package:
 		</manifest>
 
 Output:
+
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/BottomNavigation/art/bottomnavigation.png)
