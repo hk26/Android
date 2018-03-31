@@ -72,13 +72,13 @@
 						.withPermissions(
 								Manifest.permission.READ_EXTERNAL_STORAGE,
 								Manifest.permission.WRITE_EXTERNAL_STORAGE,
-								Manifest.permission.ACCESS_FINE_LOCATION)
-						.withListener(new MultiplePermissionsListener() {
-							@Override
-							public void onPermissionsChecked(MultiplePermissionsReport report) {
-								// check if all permissions are granted
-								if (report.areAllPermissionsGranted()) {
-									Toast.makeText(getApplicationContext(), "All permissions are granted!", Toast.LENGTH_SHORT).show();
+				Manifest.permission.ACCESS_FINE_LOCATION)
+			.withListener(new MultiplePermissionsListener() {
+			@Override
+			public void onPermissionsChecked(MultiplePermissionsReport report) {
+				// check if all permissions are granted
+				if (report.areAllPermissionsGranted()) {
+				Toast.makeText(getApplicationContext(), "All permissions are granted!", Toast.LENGTH_SHORT).show();
 								}
 
 								// check for permanent denial of any permission
@@ -303,8 +303,6 @@
 
 		</manifest>		
 		
-
-
 **Output:**
 
-![alt text]()
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/DexterPermissions/art/dexterpermissions.png)
