@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Draganddrop</string>
+    <string name="longclick">Long click on image to move</string>
+</resources>
