@@ -1,4 +1,4 @@
-**Snackbars provide lightweight feedback about an operation. They show a brief message at the bottom of the screen on mobile and lower left on larger devices. Snackbars appear above all other elements on screen and only one can be displayed at a time.***
+***Snackbars provide lightweight feedback about an operation. They show a brief message at the bottom of the screen on mobile and lower left on larger devices. Snackbars appear above all other elements on screen and only one can be displayed at a time.***
 
 **Strings.xml:**
 
@@ -172,7 +172,7 @@
                             .setAction("UNDO", new View.OnClickListener() {
                                 @Override
                                 public void onClick(View view) {
-                                    Snackbar snackbar1 = Snackbar.make(coordinatorLayout, "Message is restored!", Snackbar.LENGTH_SHORT);
+                                 Snackbar snackbar1 = Snackbar.make(coordinatorLayout, "Message is restored!", Snackbar.LENGTH_SHORT);
                                     snackbar1.show();
                                 }
                             });
@@ -235,4 +235,4 @@
 
 **Output:**
 
-![alt text]()
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/Snackbar/art/snackbar.png)
