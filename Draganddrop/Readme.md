@@ -175,7 +175,4 @@ By using your own idea you can use this feature to move Fab button also.So let,s
     </application>
 
     </manifest>
-    
-Output:
-
-![alt text]()    
+ 
