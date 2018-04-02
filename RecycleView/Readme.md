@@ -724,6 +724,6 @@
 
 Output:
 
-![alt text]()
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/RecycleView/art/recycleview1.png)
 
-![alt text]()	
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/RecycleView/art/recycleview2.png)	
