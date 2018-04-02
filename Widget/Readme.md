@@ -158,5 +158,7 @@
 
 **Output:**
 
-![alt text]()    
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/Widget/art/image2.png)   
+
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/Widget/art/image1.png)    
     
