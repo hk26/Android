@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PDFCreator</string>
+    <string name="write">Write the content</string>
+    <string name="createpdf">Create PDF</string>
+</resources>
