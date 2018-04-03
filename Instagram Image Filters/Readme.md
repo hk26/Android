@@ -1405,6 +1405,6 @@
         </application>
     </manifest>
  
-
-
+ **Output:**
  
+ ![alt text](https://github.com/akshaysunilmasram/Android/blob/master/Instagram%20Image%20Filters/art/Instagram.png)
