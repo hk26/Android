@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Emojis</string>
+    <string name="system">Use System Default</string>
+    <string name="emojis">Emojis</string>
+</resources>
