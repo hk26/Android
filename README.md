@@ -1,4 +1,4 @@
-![alt text](https://github.com/akshaysunilmasram/Android/blob/master/akshu%20logo%20512px.png)
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/akshu%20logo%20180px.png)
 
 # akshuandroid
 *Android App Tutorials*
