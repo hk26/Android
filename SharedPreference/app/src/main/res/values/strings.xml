@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreference</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="store">STORE</string>
+    <string name="fetch">FETCH</string>
+    <string name="clear">CLEAR</string>
+</resources>
