@@ -781,4 +781,4 @@
 
 **Output :**
 
-![alt text]()
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/DataBinding/art/databinding.png)
