@@ -1,6 +1,6 @@
 ***In this tutorial we will learn to add facebook comment in app. Facebook comment plugin gives you to add comment in your app . So let's start with the tutorial :***
 
-** This will be your Strings.xml :**
+**This will be your Strings.xml :**
 
     <resources>
         <string name="app_name">Facebook Comments</string>
@@ -9,7 +9,7 @@
         <string name="action_refresh">Reload</string>
     </resources>
 
-** And now create a layout file in res -> layout -> activity_main.xml :**
+**And now create a layout file in res -> layout -> activity_main.xml :**
 
     <?xml version="1.0" encoding="utf-8"?>
     <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -44,7 +44,7 @@
 
     </android.support.design.widget.CoordinatorLayout> 
 
-** Now create activity_fb_comments.xml layout file :**
+**Now create activity_fb_comments.xml layout file :**
 
     <android.support.design.widget.CoordinatorLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
@@ -142,7 +142,7 @@
         }
     }
     
-** Create Another java file named. FbCommentsActivity.java file :**
+**Create Another java file named. FbCommentsActivity.java file :**
 
     package facebook.developer.aero;
 
@@ -352,7 +352,7 @@
         }
     }
     
-** And this will be your Manifest.xml file :
+**And this will be your Manifest.xml file :
 
     <manifest
         xmlns:android="http://schemas.android.com/apk/res/android"
@@ -387,8 +387,6 @@
     
 **Output :**
 
-![alt text]()    
-    
-    
-   
-    
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/Facebookcommentwidget/art/device-2018-04-23-122409.png)    
+
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/Facebookcommentwidget/art/device-2018-04-23-122340.png)
