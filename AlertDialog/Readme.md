@@ -1,6 +1,6 @@
 ***Alert Dialog box helps you to display a dialog box when any activity done by a user is to be confirm. So let's start the tutorial:*** 
 
-**Here is the modified code of src/MainActivity.java**
+**Create a ' MainActivity.java ' file in your package [ for example alertdialog.developer.aero -> MainActivity.java ].**
 
     package alertdialog.developer.aero;
 
@@ -43,7 +43,7 @@
         }
     }
 
-**Here is the modified code of res/layout/activity_main.xml**
+**Now create activity_main file in your res -> layout -> activity_main :**
 
     <?xml version="1.0" encoding="utf-8"?>
         <RelativeLayout
@@ -82,7 +82,7 @@
 
     </RelativeLayout>
 		
-**Strings.xml**
+**This will be your Strings.xml**
 
     <resources>
         <string name="app_name">My Application</string>
