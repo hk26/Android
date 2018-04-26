@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="save">Save</string>
+    <string name="search">Search</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="preferences">Preferences</string>
+    <string name="click_on_menu_to_show_menu_items">Click on Menu to show Menu Items</string>
+</resources>
