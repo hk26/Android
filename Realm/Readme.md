@@ -236,7 +236,7 @@
     
 ***Now after creating layout files. we will create java files for our app. below is the screenshot given about how our package will look :***
 
-*Screenshot*
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/Realm/art/Capture.PNG)
 
 **Create a ' activity ' directory in package and in activity directory create MainActivity.java file     
 
@@ -910,4 +910,4 @@
 
 **Output :**
 
-![alt text]()
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/Realm/art/realm.png)
