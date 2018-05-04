@@ -1,0 +1,56 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    defaultConfig {
+        applicationId "realm.developer.aero"
+        minSdkVersion 17
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+    }
+
+    packagingOptions {
+        exclude 'META-INF/services/javax.annotation.processing.Processor'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+
+    // App Compact
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+
+    // Support
+    implementation 'com.android.support:support-v4:27.1.1'
+
+    // Design
+    implementation 'com.android.support:design:27.1.1'
+
+    // Glide
+    //noinspection GradleDependency
+    implementation 'com.github.bumptech.glide:glide:3.7.0'
+
+    // Realm
+    annotationProcessor 'io.realm:realm-android:0.82.1'
+    implementation 'io.realm:realm-android:0.82.1'
+
+    // RecyclerView
+    implementation 'com.android.support:recyclerview-v7:27.1.1'
+
+    // CardView
+    implementation 'com.android.support:cardview-v7:27.1.1'
+
+    //Constraint Layout
+    implementation 'com.android.support.constraint:constraint-layout:1.1.0'
+}
