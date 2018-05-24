@@ -414,15 +414,4 @@ apply plugin: 'com.android.application'
 
 **Output :**
 
-![alt text]()    
-    
-
-     
-    
-
-
-    
-
-
-     
-    
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/NavigationDrawer/mockup/navigationdrawer.png)
