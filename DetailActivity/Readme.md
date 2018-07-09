@@ -628,12 +628,6 @@
 
 **Output**
 
-![alt text]()
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/DetailActivity/art/detailactivity1.png)
 
-![alt text]()    
-    
-
-  
-    
-    
-    
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/DetailActivity/art/detailactivity2.png)
