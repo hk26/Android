@@ -1,4 +1,4 @@
-![alt text](https://github.com/akshaysunilmasram/Android/blob/master/akshu.png)
+![alt text](https://github.com/akshaysunilmasram/Android/blob/master/favicon.png)
 
 # 4Cozy
 *Android App Tutorials*
